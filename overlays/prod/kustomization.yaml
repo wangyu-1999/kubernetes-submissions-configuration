@@ -14,7 +14,7 @@ namePrefix: prod-
 images:
 - name: march787/todo-app
   newName: march787/todo-app
-  newTag: "4.9"
+  newTag: "4.10"
 - name: march787/todo-backend
   newName: march787/todo-backend
-  newTag: "4.9"
+  newTag: "4.10"
