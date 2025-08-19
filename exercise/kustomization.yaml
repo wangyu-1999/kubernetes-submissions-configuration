@@ -15,10 +15,10 @@ resources:
 images:
 - name: march787/log-output
   newName: march787/log-output
-  newTag: 3c0ce4d4c6d6f344260d9e26e15e5e746b67780c
+  newTag: c695ca2232fddd30520192ba17ba4940b877266b
 - name: march787/ping-pong
   newName: march787/ping-pong
-  newTag: 3c0ce4d4c6d6f344260d9e26e15e5e746b67780c
+  newTag: c695ca2232fddd30520192ba17ba4940b877266b
 - name: march787/string-generator
   newName: march787/string-generator
-  newTag: 3c0ce4d4c6d6f344260d9e26e15e5e746b67780c
+  newTag: c695ca2232fddd30520192ba17ba4940b877266b
